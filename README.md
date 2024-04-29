@@ -6,7 +6,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&langs_count=10&theme=transparent)
 
-[![Grimos's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Grimos10&theme=transparent)](https://github.com/anuraghazra/github-readme-stats&hide_progress=true&layout=compact)
 
 
 <!--
